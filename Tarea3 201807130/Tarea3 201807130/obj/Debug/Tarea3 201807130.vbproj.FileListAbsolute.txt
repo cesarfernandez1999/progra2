@@ -1,0 +1,12 @@
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\bin\Debug\Tarea3 201807130.exe.config
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\bin\Debug\Tarea3 201807130.exe
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\bin\Debug\Tarea3 201807130.pdb
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\bin\Debug\Tarea3 201807130.xml
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3 201807130.vbproj.AssemblyReference.cache
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3_201807130.Form1.resources
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3_201807130.Resources.resources
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3 201807130.vbproj.GenerateResource.cache
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3 201807130.vbproj.CoreCompileInputs.cache
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3 201807130.exe
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3 201807130.xml
+C:\Users\cafer\OneDrive\Escritorio\progra 2\Tarea3 201807130\Tarea3 201807130\obj\Debug\Tarea3 201807130.pdb
